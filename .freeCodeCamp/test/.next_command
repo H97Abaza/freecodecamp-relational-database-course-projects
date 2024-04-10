@@ -43,3 +43,5 @@ nano castle.sh
 bash castle.sh
 nano castle.sh
 bash castle.sh
+printenv
+export CODEROAD_WEBHOOK_TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyVG9rZW4iOiI4dUd0NkdHYXpzMXF6Z2tTc0dxMHpIS1ppNXJpRFFPaUdNMnJqdHpPSFdWRXYxUzZ5VkVjN0JjcWtCaU1yY3NsIiwiaWF0IjoxNzEyNzg0NjM0fQ.LVE57uHqQaEPs5lLXyMIgOmlj23oEJ3lEtglq5IQOT4/https://github.com/freeCodeCamp/learn-nano-by-building-a-castle"
