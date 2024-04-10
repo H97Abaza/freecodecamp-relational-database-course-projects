@@ -1,6 +1,6 @@
 # [Build a World Cup Database](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)
 
-This is one of the required projects of [Relational Database](https://www.freecodecamp.org/learn/relational-database) certification offered by [freeCodeCamp](https://www.freecodecamp.org). For this project, I build a database of celestial bodies using PostgreSQL.
+This is one of the required projects of [Relational Database](https://www.freecodecamp.org/learn/relational-database) certification offered by [freeCodeCamp](https://www.freecodecamp.org). For this project, I build a database of World Cup using PostgreSQL and shell script to insert data.
 
 ## Completed tasks:
 
